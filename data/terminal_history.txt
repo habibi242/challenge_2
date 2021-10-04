@@ -1,0 +1,984 @@
+   50  cd desktop
+   51  ls
+   52  cd Fintech
+   53  ls
+   54  cd "first week"
+   55  ls
+   56  ls
+   57  cd desktop
+   58  cd FinTech_workplace
+   59  ls
+   60  cd python_project
+   61  cd python_projecct
+   62  ls
+   63  conda dev activate
+   64  conda activate dev
+   65  cd ../..
+   66  cd ..
+   67  ls
+   68  cd desktop
+   69  cd FinTech_workplace
+   70  ls
+   71  cd pyhton_projecct
+   72  cd pyhton_projecct
+   73  pyhton M1l3.py
+   74  ls
+   75  cd
+   76  cd Python_projecct
+   77  ls
+   78  cd desktop
+   79  cd fintech_workplace
+   80  ls
+   81  cd "python_project"
+   82  conda activate dev
+   83  python "m1l3.py"
+   84  cd desktop
+   85  cd fintech_workplace
+   86  ls
+   87  cd "python_project"
+   88  conda activate dev
+   89  python M1l3.py
+   90  current_price
+   91  conda dev deactivate
+   92  conda deactivate dev
+   93  deactivate conda
+   94  conda deactivate
+   95  cd desktop
+   96  cd fintech_workplace
+   97  cd "pyhton_project"
+   98  ls
+   99  cd "pyhton_project"
+  100  cd pyhton_project
+  101  ls
+  102  cd (pyhton_project)
+  103  cd "Pyhton_project"
+  104  cd dektop
+  105  cd fintech_workplace
+  106  cd desktop
+  107  cd fintech_workplace
+  108  ls
+  109  cd Pyhton_project
+  110  cd "pyhton_project"
+  111  cd "pyhton project"
+  112  cd (pyhton_project)
+  113  cd Python_project
+  114  conda dev activate
+  115  conda activate dev
+  116  pyhton A1.py
+  117  cd
+  118  ls
+  119  cd desktop
+  120  cd fintech_workplace
+  121  cd python_project
+  122  conda activate dev
+  123  python A1.py
+  124  python A1.py
+  125  python M1l3.py
+  126  pyhton m1l2.py
+  127  python M1l2.py
+  128  python A1.py
+  129  pyhton A1.py
+  130  pyhton A1.py
+  131  pyhton A1.py
+  132  pyhton A1.py
+  133  conda deactivate
+  134  path
+  135  PATH
+  136  $path
+  137  ld
+  138  ls
+  139  cd desktop
+  140  cd fintech_workplace
+  141  cd python_project
+  142  conda dev activate
+  143  conda activate dev
+  144  ls
+  145  python A1.py
+  146  pyhton A1.py
+  147  python m1l2.py
+  148  python a1.py
+  149  conda deactivate
+  150  cd desktop
+  151  cd fintech_workplace
+  152  cd python_project
+  153  conda activate dev
+  154  python a1.py
+  155  python strings.py
+  156  cd
+  157  ls
+  158  cd desktop
+  159  cd fintech_workplace
+  160  ls
+  161  cd 01_Hello_Variable_world
+  162  conda activate dev
+  163  python 01_Hello_variable_world.py
+  164  ls
+  165  cd Unsolved
+  166  ls
+  167  python hello_variable_world.py
+  168  python helllo_variable_world.py
+  169  python hello_variable_world.py
+  170  conda deactivate
+  171  cd desktop
+  172  cd fintech_workplae
+  173  cd fintech_workplace
+  174  ls
+  175  cd 01_Hello_variable_world
+  176  ls
+  177  cd unsolved
+  178  conda activate dev
+  179  python 01_hello_variable_world.py
+  180  python hello_variable_world.py
+  181  python hello_variable_world.py
+  182  python hello_variable_world.py
+  183  python hello_variable_world.py
+  184  python hello_variable_world.py
+  185  python hello_variable_world.py
+  186  python hello_variable_world.py
+  187  python hello_variable_world.py
+  188  python hello_variable_world.py
+  189  python hello_variable_world.py
+  190  python hello_variable_world.py
+  191  python hello_variable_world.py
+  192  python hello_variable_world.py
+  193  python hello_variable_world.py
+  194  python hello_variable_world.py
+  195  python hello_variable_world.py
+  196  pyhton hello_variable_world.py
+  197  pyhon hello_variabe_world.py
+  198  python hello_variable_world.py
+  199  python hello_variable_world.py
+  200  cd desktop
+  201  cd fintech_workplace
+  202  ls
+  203  cd (01_hello_variable_world)
+  204  ls
+  205  cd 01_Hello_Variable_world
+  206  cd Unsolved
+  207  conda activate dev
+  208  ls
+  209  python hello_variable_world.py
+  210  cd
+  211  ls
+  212  cd desktop
+  213  cd Fintech_workplace
+  214  ls
+  215  cd 01_hello_variabe_world
+  216  cd 01_Hello_variable_world
+  217  ls
+  218  cd unsolved
+  219  ls
+  220  conda activate dev
+  221  python variables.py
+  222  python variables2.py
+  223  python variables2.py
+  224  python variables2.py
+  225  python variables2.py
+  226  python variables2.py
+  227  cd desktop
+  228  cd fintech_workplace
+  229  ls
+  230  cd 01_hello_variable_world.py
+  231  cd 01_Hello_variables_world
+  232  ls
+  233  cd 01_Hello_variable_world
+  234  cd unsolved
+  235  conda dev activate
+  236  conda activate dev
+  237  ls
+  238  python Variables2.py
+  239  clear
+  240  cd desktop
+  241  cd ..
+  242  cd ..
+  243  ls
+  244  cd exerscise
+  245  cd "exerscise"
+  246  cd exerscise
+  247  ls
+  248  cd exerscise
+  249  cd (exersice)
+  250   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 51744 -- "/Users/azaldin/Desktop/FinTech_workplace/exerscise /numbers.py" 
+  251  python numbers.py
+  252  cd desktop
+  253  cd fintech_workplace
+  254  ls
+  255  cd exerscise
+  256   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 51871 -- /Users/azaldin/Desktop/FinTech_workplace/list/Unsolved/listing_assets.py 
+  257  python listing_assets.py
+  258  python listing_assets.py
+  259   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 51973 -- /Users/azaldin/Desktop/FinTech_workplace/dictionary.py/dictionary.py 
+  260   cd /Users/azaldin/Desktop/FinTech_workplace/dictionary.py ; /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 51978 -- /Users/azaldin/Desktop/FinTech_workplace/dictionary.py/dictionary.py 
+  261  python disctionary.py
+  262  ls
+  263  cd dictionary.py
+  264  cd
+  265  conda activate dev
+  266  python dictionary.py
+  267  python dictionary.py
+  268  cd desktop
+  269  cd fintech_workplace
+  270  ls
+  271  cd python_project
+  272  ls
+  273  cd ..
+  274  cd desktop
+  275  cd Gethub_upload
+  276  ls
+  277  conda activate dev
+  278  python main..py
+  279  python main.py
+  280  python main.py
+  281  python main.py
+  282  python main.py
+  283  python main.py
+  284  python main.py
+  285   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 54433 -- "/Users/azaldin/Desktop/FinTech/first week/Starter_Code/test1.py" 
+  286  pythoon test1.py
+  287  python test1.py
+  288  conda activate dev
+  289  ls
+  290  python test1.py
+  291  ls
+  292  cd
+  293  cd starter code
+  294  python test1.py
+  295  pwd
+  296  ls
+  297  cd desktop
+  298  cd fintech
+  299  ls
+  300  cd fintech
+  301  ls
+  302  cd desktop
+  303  cd fintech
+  304  ls
+  305  cd first week
+  306  cd (first week)
+  307  clear
+  308  cd
+  309  ls
+  310  cd desktop
+  311  ls
+  312  cd fintech
+  313  ls
+  314  cd first week
+  315  cd first week
+  316   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1230869389/pythonFiles/lib/python/debugpy/launcher 54664 -- "/Users/azaldin/Desktop/FinTech/first week/testing.py" 
+  317  clear
+  318  cd
+  319  ls
+  320  cd desktop
+  321  cd fintech
+  322  ls
+  323  cd first week
+  324  cd first_week
+  325  ls
+  326  cd first_week
+  327  ls
+  328  python testing.py
+  329  python testing.py
+  330  ls
+  331  conda activate dev
+  332  python testing.py
+  333  python testing.py
+  334  python testing.py
+  335  python testing.py
+  336  ls
+  337  python testing.py
+  338  python testing.py
+  339  clear
+  340  ls
+  341  python testing.py
+  342  ls
+  343  cd testing.py
+  344  pyhton testing.py
+  345  python testing.py
+  346  python test.py
+  347  pyhon test1.py
+  348  python test1.py
+  349  ls
+  350  ls
+  351  cd starter_code
+  352  ls
+  353  python test1.py
+  354  ls
+  355  cd desktop
+  356  cd fintech
+  357  cd starter_code
+  358  cd Starter_code
+  359  ls
+  360  cd first_week
+  361  ls
+  362  cd Starter_code
+  363  ls
+  364  cd test1.py
+  365  conda activate dev
+  366  python test1.py
+  367  python loan_analyzer.py
+  368  python testing.py
+  369  python testing.py
+  370  python testing.py
+  371  pyhton testing.py
+  372  python testing.py
+  373  python testing.py
+  374  python testing.pyyhon testing.py
+  375  pyhton testing.py
+  376  python testing.py
+  377  python testing.py
+  378  python testing.py
+  379  python testing.py
+  380  cd desktop
+  381  cd fintech
+  382  cd first_week
+  383  ls
+  384  cd starter_code
+  385  ls
+  386  conda activate deev
+  387  conda activate dev
+  388  ls
+  389  python testing.py
+  390  python testing.py
+  391  python testing.py
+  392  cd
+  393  cd desktop
+  394  cd fintech
+  395  cd first_week
+  396  cd starter_code
+  397  ls
+  398  python testing.py
+  399  python testing.py
+  400  python testing.py
+  401  clear
+  402  python testing.py
+  403  python testing.py
+  404  python testing.py
+  405  conda activate dev
+  406  pip -V
+  407  pip freeze
+  408  clear
+  409  pip install fire
+  410  pip install questionary
+  411  clear
+  412  conda deactivate
+  413  cd desktop
+  414  cd fitech_workplace
+  415  cd FinTech_workplace
+  416  ls
+  417  cd 01Loan_qualifier
+  418  cd unsolved
+  419  conda activate dev
+  420  python app.py
+  421  python app.py
+  422  ls ..
+  423  cd solved
+  424  cd Solved
+  425  ls
+  426  cd ..
+  427  ls
+  428  cd solved
+  429  ls
+  430  python app.py
+  431  cd ..
+  432  cd unsolved
+  433  ls
+  434  python app.py
+  435  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  436  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  437  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  438  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  439  clear
+  440  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  441  clear
+  442  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/401k/Unsolved/the_401k_shuffle.py
+  443  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /numbers.py"
+  444  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  445  clear
+  446  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  447  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  448  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  449  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  450  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  451  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  452  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  453  clear
+  454  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  455  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  456  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  457  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  458  clear
+  459  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  460  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  461  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  462  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  463  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  464  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  465  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  466  clear
+  467  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  468  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  469  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  470  clear
+  471  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  472  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  473  clear
+  474  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  475  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /stocks.py"
+  476  cd desktop
+  477  cd fintech_workplace
+  478  ls
+  479  cd listing_assets
+  480  ls
+  481  cd unsolved
+  482  conda activate dev
+  483  python listing_assets.py
+  484  clear
+  485  python listing_assets.py
+  486  conda deactivate
+  487  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /usd.py"
+  488  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /usd.py"
+  489  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /usd.py"
+  490  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  491  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  492  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  493  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  494  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  495  clear
+  496  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Conditional_Statement/Unsolved/conditional_statement.py
+  497  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  498  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  499  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  500  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  501  clear
+  502  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  503  clear
+  504  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Nested_Conditionals/Unsolved/nested_conditionals.py
+  505  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  506  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  507  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  508  clear
+  509  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying/Unsolved/training.py
+  510  cd desktop
+  511  cd fintechh_workplace
+  512  cd fintech_workplace
+  513  ls
+  514  cd Nested_conditionals
+  515  cd unsolved
+  516  cona activate dev
+  517  conda activate dev
+  518  ls
+  519  python nested_conditionals.py
+  520  cd ..
+  521  cd ..
+  522  ls
+  523  cd exerscise
+  524  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  525  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  526  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  527  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  528  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  529  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  530  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  531  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  532  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  533  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  534  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  535  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  536  clear
+  537  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /coffie.py"
+  538  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /coffie.py"
+  539  clear
+  540  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /coffie.py"
+  541  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /coffie.py"
+  542  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /coffie.py"
+  543  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Definitive_Buy/Unsolved/a_definitive_buy.py
+  544  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  545  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  546  clear
+  547  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  548  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  549  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  550  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  551  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  552  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  553  clear
+  554  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  555  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /fle.py"
+  556  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /1+1.py"
+  557  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Returned_Goods/Unsolved/returned_goods.py
+  558  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Returned_Goods/Unsolved/returned_goods.py
+  559  clean
+  560  clear
+  561  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Returned_Goods/Unsolved/returned_goods.py
+  562  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Returned_Goods/Unsolved/returned_goods.py
+  563  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying/Solved/split_second_homebuying.py
+  564  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  565  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  566  clear
+  567  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  568  clear
+  569  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  570  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  571  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /loops.py"
+  572  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /loops.py"
+  573  clear
+  574  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /loops.py"
+  575  clear
+  576  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /priciples.py"
+  577  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /priciples.py"
+  578  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  579  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  580  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  581  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  582  import pathlib
+  583  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  584  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  585  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  586  clear
+  587  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  588  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  589  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  590  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  591  clear
+  592  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  593   /usr/bin/env /usr/local/bin/python3 /Users/azaldin/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52793 -- /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  594  clear
+  595  /usr/local/bin/python3 "/Users/azaldin/Desktop/FinTech_workplace/exerscise /csv.py"
+  596  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  597  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  598  /usr/local/bin/python3
+  599  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  600  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  601  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  602  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  603  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  604  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  605  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  606  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  607  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  608  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  609  cd /Users/azaldin/Desktop/FinTech/first_week/Starter_Code
+  610  conda activate dev
+  611  python loan analyzer.py
+  612  python loan analyzer.py
+  613  python loan_analyzer.py
+  614  python loan_analyzer.py
+  615  python loan_analyzer.py
+  616  clear
+  617  python loan_analyzer.py
+  618  python loan_analyzer.py
+  619  python loan_analyzer.py  
+  620  python loan_analyzer.py  
+  621  python loan_analyzer.py  
+  622  python loan_analyzer.py  
+  623  conda deactivate
+  624  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  625  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  626  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  627  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  628  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  629  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  630  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  631  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  632  clear
+  633  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  634  clear
+  635  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  636  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  637  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  638  cd desktop
+  639  cd fintech
+  640  cd first_week
+  641  ls
+  642  cd starter_code
+  643  ls
+  644  conda activate dev
+  645  python loan_analyzer.py
+  646  python loan_analyzer.py
+  647  python loan_analyzer.py
+  648  python loan_analyzer.py
+  649  clear
+  650  python loan_analyzer.py
+  651  python loan_analyzer.py
+  652  python loan_analyzer.py
+  653  clear
+  654  python loan_analyzer.py\n
+  655  python loan_analyzer.py\n
+  656  python loan_analyzer.py
+  657  clear
+  658  python loan_analyzer.py
+  659  python loan_analyzer.py
+  660  clear
+  661  conda dev activate
+  662  conda activate dev
+  663  cd dektop
+  664  cd fintech
+  665  cd Fintech
+  666  cd first_week
+  667  cd starter_code
+  668  python loan_analyzer.py
+  669  ls
+  670  cd ..
+  671  pwd
+  672  cd desktop
+  673  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  674  /usr/local/bin/python3 /Users/azaldin/Downloads/Starter_Code/loan_analyzer.py
+  675  /usr/local/bin/python3 /Users/azaldin/Downloads/Starter_Code/loan_analyzer.py
+  676  /usr/local/bin/python3 /Users/azaldin/Downloads/Starter_Code/loan_analyzer.py
+  677  clear
+  678  /usr/local/bin/python3 /Users/azaldin/Downloads/Starter_Code/loan_analyzer.py
+  679  /usr/local/bin/python3 /Users/azaldin/Downloads/Starter_Code/loan_analyzer.py
+  680  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  681  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  682  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  683  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  684  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  685  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  686  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  687  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  688  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  689  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  690  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  691  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/test2.py
+  692  cd desktop
+  693  cd Fintech
+  694  cd first_week
+  695  cd starter_code
+  696  ls
+  697  conda activate dev
+  698  python loan_analyzer.py
+  699  python loan_analyzer.py\n
+  700  python loan_analyzer.py\n
+  701  clear
+  702  python test2q.py
+  703  python test2.py
+  704  python test2.py
+  705  python test2.py
+  706  python test2.py
+  707  clear
+  708  python test2.py
+  709  python test.py
+  710  python test.py
+  711  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  712  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  713  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  714  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  715  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  716  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.py
+  717  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech/first_week/Starter_Code/loan_analyzer.python test2.py
+  718  ls
+  719  cd desktop
+  720  cd Fintech
+  721  cd first_week
+  722  cd starter_code
+  723  conda activate dev
+  724  python test2.py
+  725  python loan_analyzer.py
+  726  python loan_analyzer.py
+  727  conda deactivate
+  728  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Loan_Qualifier_part_2/Unsolved/app.py
+  729  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Loan_Qualifier_part_2/Unsolved/app.py
+  730  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Loan_Qualifier_part_2/Unsolved/app.py
+  731  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Loan_Qualifier_part_2/Unsolved/app.py
+  732  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Loan_Qualifier_part_2/Unsolved/app.py
+  733  /usr/local/bin/python3 /Users/azaldin/Desktop/FinTech_workplace/Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  734  cd desktop
+  735  cd finntech_workplace
+  736  cd Fintech_workplace
+  737  ls
+  738  cd Modularize_Your_Loan_Qualifier_Application_Part_2
+  739  ls
+  740  cd unsolved
+  741  ls
+  742  conda activate dev
+  743  python app.py
+  744  clear
+  745  pwd
+  746  ls
+  747  touch A1.text
+  748  ls
+  749  rm A1.text
+  750  ls
+  751  clear
+  752  cd ..
+  753  cd ..
+  754  cd ..
+  755  cd ..
+  756  pip install fire
+  757  import fire
+  758  clear
+  759  cd desktop
+  760  cd Fintech
+  761  ls
+  762  cd CLI'S\ncd cli's
+  763  cd CLI's\ncd /Users/azaldin/Desktop/FinTech/CLI's
+  764  cd ..
+  765  cd ..
+  766  cd dektop
+  767  cd Fintech
+  768  cd fintech
+  769  ls
+  770  cd desktop
+  771  cd Fintech
+  772  ls
+  773  cd cli
+  774  python cli.py
+  775  ls
+  776  cd documents
+  777  ls
+  778  cd fintech
+  779  ls
+  780  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_Fire/Unsolved/app.py
+  781  cd desktop
+  782  cd ..
+  783  cd documents
+  784  cd fintedch
+  785  cd fintech
+  786  cd fintech_workplace
+  787  ls
+  788  cd Adding_fire
+  789  ls
+  790  cd unsolved
+  791  python app.py
+  792  clear
+  793  conda activate dev
+  794  pip install fire
+  795  cd ..
+  796  cd.
+  797  cd 
+  798  pwd
+  799  cd dektop
+  800  cd desktop
+  801  cd fire
+  802  python cli.py
+  803  clear
+  804  pwd
+  805  pwd ..
+  806  pwd/
+  807  cd ...
+  808  cd ..
+  809  cd ..
+  810  python setup.py install
+  811  pip install fire
+  812  /usr/local/bin/python3 /Users/azaldin/Desktop/fire/picker.py
+  813  /usr/local/bin/python3 /Users/azaldin/Desktop/fire/dialog.py
+  814  /usr/local/bin/python3 /Users/azaldin/Desktop/fire/dialog.py
+  815  conda activate dev
+  816  pip install questionary
+  817  clear
+  818  cd desktop
+  819  cd fire
+  820  ls
+  821  python dialog.py
+  822  cd
+  823  ls
+  824  cd desktop
+  825  ls
+  826  lear
+  827  clear
+  828  pip show fire
+  829  piip show questionary
+  830  pip show questionary
+  831  clear
+  832  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  833  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_questionary_to_Loan_Qualifier/Unsolved/example.py
+  834  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_questionary_to_Loan_Qualifier/Unsolved/example.py
+  835  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_questionary_to_Loan_Qualifier/Unsolved/example.py
+  836  /usr/local/bin/python3 /Users/azaldin/Documents/FinTech/FinTech_workplace/Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  837  pip uninstall fire
+  838  pip install fire
+  839  clear
+  840  cd documents
+  841  cd fintech
+  842  cd fintech_workplace
+  843  ls
+  844  cd adding_questionary_to_loan_Qualifier_part_2
+  845  cd Adding_questionary_to_Loan_Qualifier
+  846  ls
+  847  cd unsolved
+  848  python example.py
+  849  python app.py --credit_score=750 --debt=5000 --income=20000
+  850  clear
+  851  pip uninstall questionary
+  852  pip install questionary
+  853  python app.py --credit_score=750 --debt=5000 --income=20000
+  854  pip uninstall fire
+  855  pip install fire
+  856  clear
+  857  python app.py --credit_score=750 --debt=5000 --income=20000
+  858  pip show fire
+  859  pip install fire
+  860  clear
+  861  python app.py --credit_score=750 --debt=5000 --income=20000
+  862  python app.py --credit_score=750 --debt=5000 --income=20000
+  863  clear
+  864  python app.py --credit_score=750 --debt=5000 --income=20000
+  865  python app.py
+  866  clear
+  867  python app.py
+  868  python app.py
+  869  python app.py
+  870  python app.py
+  871  git config --global user.name Azaldin assi
+  872  git config --global user.email ez_assi@hotmail.com
+  873  git config --list
+  874  clear
+  875  cd documents
+  876  cd fintech
+  877  cd fintech_workplace
+  878  ls
+  879  get clone https://github.com/habibi242/repo-training.git
+  880  get clone git@github.com:habibi242/repo-training.git
+  881  conda activate dev
+  882  get clone git@github.com:habibi242/repo-training.git
+  883  get clone https://github.com/habibi242/repo-training.git
+  884  clear
+  885  git status
+  886  git add .
+  887  git status
+  888  git commit -m "Readme file has been modefied"
+  889  git push
+  890  git push week_2_repo
+  891  git push --upstream week_2_repo
+  892  clear
+  893  giit push
+  894  git push
+  895  git remote add https://github.com/habibi242/week_2_repo.git
+  896  git push week_2_repo
+  897  git push --set upstream week_2_repo main
+  898  git repo --set week_2_repo main
+  899  clear
+  900  git status
+  901  git pull
+  902  git push README.md
+  903  git push --set-upstream README.md main\n
+  904  ls
+  905  git push file.txt
+  906  git push --set-upstream README.md main
+  907  clear
+  908  git remote set-url origin https://github.com/habibi242/week_2_repo.git
+  909  git remote set-url https://github.com/habibi242/week_2_repo.git
+  910  git remote set-url [--push] README.md
+  911  --push
+  912  git push
+  913  git push wek_2_repo
+  914  .git/week_2_repo
+  915  git push -u origin master
+  916  clear
+  917  git config --global push.default current
+  918  git push
+  919  git push week_2_repo
+  920  git remote add origin https://github.com/habibi242/week_2_repo.git
+  921  fit remote -v
+  922  git config --global push.default current
+  923  git push
+  924  git push
+  925  git push
+  926  clear
+  927  git push
+  928  git push
+  929  git fetch \ngit merge FETCH_HEAD
+  930  git push main
+  931  git push README.py
+  932  git push
+  933  git push origin main
+  934  git fetch\ngit rebase main\ngit push origin main
+  935  git pull origin main -v
+  936  git push origin main -v
+  937  cd docments
+  938  ls
+  939  cd documents
+  940  ls
+  941  cd fintech
+  942  cd second_week
+  943  ls
+  944  cd week_2_repo
+  945  git status
+  946  ls
+  947  git push
+  948  git pull
+  949  git pull main
+  950  git pull week_2_repo
+  951  touch app.py
+  952  ls
+  953  git commit
+  954  git add
+  955  git add .
+  956  ls
+  957  git pull
+  958  clear
+  959  pwd
+  960  cd ..
+  961  ls
+  962  cd challenge_2_repo
+  963  git status
+  964  .git
+  965  git commit
+  966  git clone https://github.com/habibi242/challenge_2.git
+  967  git https://github.com/habibi242/challenge_2.git
+  968  git clone https://github.com/habibi242/challenge_2.git
+  969  clear
+  970  git clone https://github.com/habibi242/challenge_2.git
+  971  git status
+  972  conda activate dev
+  973  git config --list
+  974  git clone https://github.com/habibi242/challenge_2.git
+  975  git status
+  976  cd documments
+  977  ls
+  978  cd documents
+  979  cd fintech
+  980  ls
+  981  cd second_week
+  982  ls
+  983  cd challenge_2
+  984  git status
+  985  git add .
+  986  ls
+  987  git status
+  988  git commit "first step has been done; i've cloned my repo to my machine"
+  989  git commit -m "first step has been done; i've cloned my repo to my machine"\n
+  990  clear
+  991  git commit -m
+  992  git commit
+  993  git add .
+  994  git push
+  995  git commit -m"Readme file been updated"
+  996  git commit -m"Changes has been done on the readme file"
+  997  git add .
+  998  fit commit -a
+  999  git command -a
+ 1000  git commit -a
+ 1001  cd documents
+ 1002  cd fintech
+ 1003  cd second_week
+ 1004  ls
+ 1005  cd challenge_2
+ 1006  ls
+ 1007  git status
+ 1008  git push
+ 1009  git commit -m"readme has been updated"
+ 1010  git status
+ 1011  git push
+ 1012  git pull
+ 1013  clear
+ 1014  git push
+ 1015  git status
+ 1016  git add .
+ 1017  git status
+ 1018  git push
+ 1019  ls
+ 1020  cd data
+ 1021  touch save_csv
+ 1022  ls
+ 1023  rm save_csv
+ 1024  touch save.csv
+ 1025  rm save.csv
+ 1026  touch saved_data.csv
+ 1027  rm saved_datacsv
+ 1028  rm saved_data.csv
+ 1029  cd ..
+ 1030  conda activate dev
+ 1031  python app.py
+ 1032  cd data
+ 1033  touch saaved_data.csv

@@ -1,4 +1,4 @@
-# Loan Qualifier App
+# Loan Qualifier Application
 
 This is a command-line interface application that allows users to see if they qualafied for the loan in matter of seconds. 
 ---
