@@ -9,6 +9,7 @@ Example:
 import sys
 import fire
 import questionary
+
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
